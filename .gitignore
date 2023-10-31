@@ -1,3 +1,4 @@
+#Arquivos ignorados
 .terraform/
 *.tfstate
 *.backup
