@@ -7,7 +7,7 @@ variable "myNLB" {
 variable "myBucket" {
   type        = string
   description = "Bucket S3"
-  default     = "myfirstbucketinaccount26-10-23"
+  default     = "myfirstbucketinaccount31-10-23"
 
 }
 variable "tagsBucket" {
