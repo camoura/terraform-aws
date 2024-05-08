@@ -7,13 +7,13 @@ variable "myNLB" {
 variable "myBucket" {
   type        = string
   description = "Bucket S3"
-  default     = "myfirstbucketinaccount26-10-23"
+  default     = "myfirstbucketinaccount07-05-24"
 
 }
 variable "tagsBucket" {
   type = map(string)
   default = {
-    Owner       = "Carlos André"
+    Owner       = "Carlos André Moura"
     Environment = "dev"
   }
 }
